@@ -1,0 +1,25 @@
+{
+  "name": "koa-http-cache",
+  "version": "1.0.0",
+  "description": "使用koa搭建web服务器测试强缓存和协商缓存",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shb190802/koa-http-cache.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shb190802/koa-http-cache/issues"
+  },
+  "homepage": "https://github.com/shb190802/koa-http-cache#readme",
+  "dependencies": {
+    "koa": "^2.11.0",
+    "koa-router": "^8.0.8",
+    "koa-static": "^5.0.0"
+  }
+}
